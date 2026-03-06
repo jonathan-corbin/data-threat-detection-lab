@@ -1,4 +1,4 @@
-# data-threat-detection-lab
+# ad-threat-detection-sentinel
 
 A hands-on lab simulating real-world attacks across Active Directory, Microsoft 365, and cloud data stores — with Microsoft Sentinel detection rules built for each. Aligned with Managed Data Detection and Response (MDDR) analyst work.
 
